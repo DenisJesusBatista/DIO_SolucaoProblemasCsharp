@@ -1,0 +1,6 @@
+C:\projeto\dio\ConsumoMedio\ConsumoMedio\bin\Debug\ConsumoMedio.exe.config
+C:\projeto\dio\ConsumoMedio\ConsumoMedio\bin\Debug\ConsumoMedio.exe
+C:\projeto\dio\ConsumoMedio\ConsumoMedio\bin\Debug\ConsumoMedio.pdb
+C:\projeto\dio\ConsumoMedio\ConsumoMedio\obj\Debug\ConsumoMedio.csprojResolveAssemblyReference.cache
+C:\projeto\dio\ConsumoMedio\ConsumoMedio\obj\Debug\ConsumoMedio.exe
+C:\projeto\dio\ConsumoMedio\ConsumoMedio\obj\Debug\ConsumoMedio.pdb

@@ -1,0 +1,5 @@
+C:\projeto\dio\ConsumoMedio\programaDDDCidade\bin\Debug\programaDDDCidade.exe.config
+C:\projeto\dio\ConsumoMedio\programaDDDCidade\bin\Debug\programaDDDCidade.exe
+C:\projeto\dio\ConsumoMedio\programaDDDCidade\bin\Debug\programaDDDCidade.pdb
+C:\projeto\dio\ConsumoMedio\programaDDDCidade\obj\Debug\programaDDDCidade.exe
+C:\projeto\dio\ConsumoMedio\programaDDDCidade\obj\Debug\programaDDDCidade.pdb
